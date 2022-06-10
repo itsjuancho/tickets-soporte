@@ -1,0 +1,42 @@
+body {
+  padding-top: 4.5rem;
+}
+
+footer.footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  bottom: 0;
+}
+
+#link{
+  color: #ffffff;
+}
+
+.high{
+  padding-top: 1%;
+}
+
+#navText{
+  color: #ffffff;
+}
+
+.bg-greenlight{
+	color: black;
+	background-color: #90ad97;
+	border-color: #9db1a2;
+}
+
+.border-greenlight{
+	border-color: #91b399;
+}
+
+.bg-myTickets{
+	color: black;
+	background-color: #ffc1077a;
+}
+
+.btn-editar{
+  color: black;
+  background-color: #ffc1077a;
+  border-color: #ffc1074d;
+}

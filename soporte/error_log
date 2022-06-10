@@ -1,0 +1,34 @@
+[20-Jul-2020 19:11:58 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'juanchoo_sysAdmin'@'localhost' to database 'juanchoo_suportick' in /home4/juanchoo/sis.juanchoo.com/suportick/config/database.php on line 8
+[20-Jul-2020 19:11:58 America/Bogota] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/config/database.php on line 8
+[20-Jul-2020 19:12:10 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'juanchoo_sysAdmin'@'localhost' to database 'juanchoo_suportick' in /home4/juanchoo/sis.juanchoo.com/suportick/config/database.php on line 8
+[20-Jul-2020 19:12:10 America/Bogota] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/config/database.php on line 8
+[20-Jul-2020 19:12:14 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'juanchoo_sysAdmin'@'localhost' to database 'juanchoo_suportick' in /home4/juanchoo/sis.juanchoo.com/suportick/config/database.php on line 8
+[20-Jul-2020 19:12:14 America/Bogota] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/config/database.php on line 8
+[20-Jul-2020 19:18:32 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 19:21:31 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 19:34:34 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 19:47:01 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 19:51:34 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 19:51:55 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 20:47:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function redireccionar() in /home4/juanchoo/sis.juanchoo.com/suportick/registro.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/juanchoo/sis.juanchoo.com/suportick/registro.php on line 5
+[20-Jul-2020 20:47:56 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function redireccionar() in /home4/juanchoo/sis.juanchoo.com/suportick/registro.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/juanchoo/sis.juanchoo.com/suportick/registro.php on line 5
+[20-Jul-2020 21:00:20 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:01:11 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:10:34 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:22:53 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:24:48 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:28:34 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:34:56 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:36:10 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:39:25 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:39:27 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:39:39 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:42:08 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 21:45:23 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91
+[20-Jul-2020 22:11:01 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/juanchoo/sis.juanchoo.com/suportick/index.php on line 91

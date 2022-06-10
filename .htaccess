@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^login$ login.php
+RewriteRule ^registro$ registro.php
+RewriteRule ^inicio$ index.php
+RewriteRule ^salir$ logout.php
+RewriteRule ^ups 404.php
+RewriteRule ^denied 403.php

@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^inicio$ index.php
+RewriteRule ^buscador$ buscar.php
